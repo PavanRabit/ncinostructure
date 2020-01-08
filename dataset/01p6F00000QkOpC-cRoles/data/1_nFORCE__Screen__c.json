@@ -2,7 +2,7 @@
 	"1": {
 		"LastModifiedDate": "2019-09-09T15:17:11.000Z",
 		"IsDeleted": "",
-		"nFORCE__Disable_Print__c": "false",
+		"nFORCE__Disable_Print__c": "true",
 		"AutorabitExtId__c": "",
 		"Name": "Connection Roles",
 		"SystemModstamp": "",
