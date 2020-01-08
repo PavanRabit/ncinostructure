@@ -1,8 +1,8 @@
 {
+	"prefix": "SAMDEV",
 	"packageDirectories": {
 		"v1": {
-			"prefix": "SAMDEV",
-			"uniqueId": "vTRqePGmvF/iJ2+GE+Yc9GKtMxUmn4lv4xkal9hgSwrW912tuDA6VOe8i/nIzLRu"
+			"uniqueId": "vTRqePGmvF/iJ2+GE+Yc9GKtMxUmn4lv4xkal9hgSwrW912tuDA6VOe8i/nIzLR"
 		}
 	}
 }
