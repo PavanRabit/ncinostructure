@@ -1,0 +1,11 @@
+!!com.rabit.featuremigration.beans.vcstructure.ConfigManifest
+packageDirectories:
+  packagePaths:
+    dataset:
+      features:
+        0100aNz1100110hOgI-Credit Memo:
+          path: dataset/0100aNz1100110hOgI-Credit Memo
+          prefix: SAMDEV
+          versions:
+            Version-1.0:
+              modifiedDate: '2020-02-03 13:51:02'
