@@ -1,0 +1,11 @@
+!!com.rabit.featuremigration.beans.vcstructure.ConfigManifest
+packageDirectories:
+  packagePaths:
+    dataset:
+      features:
+        0100zSr1100110kPkB-Credit Memo:
+          path: dataset/0100zSr1100110kPkB-Credit Memo
+          prefix: SAM-DEVBOX
+          versions:
+            Version-1.0:
+              modifiedDate: '2020-02-03 15:22:28'
