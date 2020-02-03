@@ -7,6 +7,13 @@
           "CustomObject": []
         }
       }
+    },
+    "Version-2.0": {
+      "metadata": {
+        "exclude": {
+          "CustomObject": []
+        }
+      }
     }
   }
 }

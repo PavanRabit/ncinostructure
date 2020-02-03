@@ -1,4 +1,4 @@
 {
   "name": "LLC_BI__Credit_Memo__c",
-  "query": "SELECT Name FROM  LLC_BI__Credit_Memo__c WHERE NAME \u003d \u0027New Deal Credit Memo\u0027"
+  "query": "SELECT Name FROM  LLC_BI__Credit_Memo__c  WHERE Name \u003d \u0027Standard Review Credit Memo (Product Package)\u0027"
 }
