@@ -8,6 +8,6 @@ packageDirectories:
           prefix: SAM-DEVBOX
           versions:
             Version-1.0:
-              modifiedDate: '2020-02-03 15:16:20'
+              modifiedDate: '2020-02-03 16:10:22'
             Version-2.0:
               modifiedDate: '2020-02-03 15:19:02'
