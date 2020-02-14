@@ -1,0 +1,69 @@
+{
+  "name": "1_nFORCE__Screen__c",
+  "attributes": [
+    "Id",
+    "OwnerId",
+    "IsDeleted",
+    "Name",
+    "CreatedDate",
+    "CreatedById",
+    "LastModifiedDate",
+    "LastModifiedById",
+    "SystemModstamp",
+    "LastActivityDate",
+    "nFORCE__Disable_Print__c",
+    "nFORCE__Show_Link_To_Context_Object__c",
+    "nFORCE__lookupKey__c",
+    "AutorabitExtId__c"
+  ],
+  "records": {
+    "1": {
+      "LastModifiedDate": "2019-09-09T15:17:11.000Z",
+      "IsDeleted": "",
+      "nFORCE__Disable_Print__c": "true",
+      "AutorabitExtId__c": "",
+      "Name": "Loan Credit Memo",
+      "SystemModstamp": "",
+      "OwnerId": "0054T000000ZYm5QAG",
+      "CreatedById": "0054T000000ZYm5QAG",
+      "nFORCE__Show_Link_To_Context_Object__c": "true",
+      "CreatedDate": "2019-09-09T15:17:11.000Z",
+      "LastActivityDate": "",
+      "nFORCE__lookupKey__c": "42744462646768559",
+      "Id": "a344T000000PEXkQAO",
+      "LastModifiedById": "0054T000000ZYm5QAG"
+    },
+    "2": {
+      "LastModifiedDate": "2019-09-09T15:17:11.000Z",
+      "IsDeleted": "",
+      "nFORCE__Disable_Print__c": "false",
+      "AutorabitExtId__c": "",
+      "Name": "Loan Credit Memo",
+      "SystemModstamp": "",
+      "OwnerId": "0054T000000ZYm5QAG",
+      "CreatedById": "0054T000000ZYm5QAG",
+      "nFORCE__Show_Link_To_Context_Object__c": "true",
+      "CreatedDate": "2019-09-09T15:17:11.000Z",
+      "LastActivityDate": "",
+      "nFORCE__lookupKey__c": "42751544234800356",
+      "Id": "a344T000000PEXnQAO",
+      "LastModifiedById": "0054T000000ZYm5QAG"
+    },
+    "3": {
+      "LastModifiedDate": "2019-09-18T14:48:46.000Z",
+      "IsDeleted": "",
+      "nFORCE__Disable_Print__c": "true",
+      "AutorabitExtId__c": "",
+      "Name": "Loan Credit Memo",
+      "SystemModstamp": "",
+      "OwnerId": "0054T000000ZYm5QAG",
+      "CreatedById": "0054T000000ZYm5QAG",
+      "nFORCE__Show_Link_To_Context_Object__c": "true",
+      "CreatedDate": "2019-09-18T14:48:45.000Z",
+      "LastActivityDate": "",
+      "nFORCE__lookupKey__c": "42428473356829361",
+      "Id": "a344T000000PINqQAO",
+      "LastModifiedById": "0054T000000ZYm5QAG"
+    }
+  }
+}

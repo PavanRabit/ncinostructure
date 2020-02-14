@@ -1,0 +1,12 @@
+{
+  "prefix": "AR_PREVIEW",
+  "packageDirectories": {
+    "1": {
+      "metadata": {
+        "exclude": {
+          "CustomObject": []
+        }
+      }
+    }
+  }
+}

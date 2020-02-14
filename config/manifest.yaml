@@ -1,0 +1,11 @@
+!!com.rabit.featuremigration.beans.vcstructure.ConfigManifest
+packageDirectories:
+  packagePaths:
+    dataset:
+      features:
+        0111aUq1111010aV7A-CM:
+          path: dataset/0111aUq1111010aV7A-CM
+          prefix: AR_PREVIEW
+          versions:
+            '1':
+              modifiedDate: '2020-02-14 11:09:52'
