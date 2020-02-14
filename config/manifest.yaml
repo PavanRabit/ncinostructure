@@ -11,3 +11,9 @@ packageDirectories:
               modifiedDate: '2020-02-03 16:10:22'
             Version-2.0:
               modifiedDate: '2020-02-03 15:19:02'
+        0100h2e1100110mEn5-CM:
+          path: dataset/0100h2e1100110mEn5-CM
+          prefix: AR_PREVIEW
+          versions:
+            '1':
+              modifiedDate: '2020-02-14 11:08:36'

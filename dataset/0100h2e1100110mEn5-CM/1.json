@@ -1,0 +1,4 @@
+{
+  "modifiedDate": "14-02-2020 11:08",
+  "changeLog": "Credit Memo \u003d SELECT Id from LLC_BI__Credit_Memo__c where Name \u003d \u0027Commercial Credit Memo\u0027"
+}
