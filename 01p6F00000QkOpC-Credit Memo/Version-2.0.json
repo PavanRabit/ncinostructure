@@ -1,0 +1,4 @@
+{
+  "modifiedDate": "14-02-2020 07:24",
+  "changeLog": "Version 2.0 with\nSELECT Name FROM  LLC_BI__Credit_Memo__c  WHERE Name \u003d \u0027Standard Review Credit Memo (Product Package)\u0027"
+}

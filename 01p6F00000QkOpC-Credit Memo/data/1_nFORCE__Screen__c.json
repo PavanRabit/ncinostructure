@@ -22,15 +22,15 @@
       "IsDeleted": "",
       "nFORCE__Disable_Print__c": "true",
       "AutorabitExtId__c": "",
-      "Name": "New Deal Credit Memo",
+      "Name": "Standard Review Credit Memo (Product Package)",
       "SystemModstamp": "",
       "OwnerId": "0054T000000ZYm5QAG",
       "CreatedById": "0054T000000ZYm5QAG",
       "nFORCE__Show_Link_To_Context_Object__c": "true",
       "CreatedDate": "2019-09-09T15:17:11.000Z",
       "LastActivityDate": "",
-      "nFORCE__lookupKey__c": "42886048832086960",
-      "Id": "a344T000000PEXpQAO",
+      "nFORCE__lookupKey__c": "",
+      "Id": "a344T000000PEXoQAO",
       "LastModifiedById": "0054T000000ZYm5QAG"
     }
   }
