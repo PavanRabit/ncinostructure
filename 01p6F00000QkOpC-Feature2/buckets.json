@@ -1,0 +1,14 @@
+{
+  "buckets": [
+    {
+      "objects": [
+        "nFORCE__Route_Group__c",
+        "nFORCE__Group__c",
+        "nFORCE__Screen__c"
+      ],
+      "bucketNum": 1,
+      "clauseField": "nFORCE__lookupKey__c",
+      "entryObject": "nFORCE__Group__c"
+    }
+  ]
+}

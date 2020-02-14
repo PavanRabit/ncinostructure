@@ -1,0 +1,40 @@
+[
+  {
+    "name": "nFORCE__Screen__c",
+    "recordtypeidmap": {},
+    "userlookupfields": [
+      "ownerid"
+    ]
+  },
+  {
+    "name": "nFORCE__Group__c",
+    "lookupobjfieldmap": {
+      "nFORCE__Screen__c": "nFORCE__Screen__c,nFORCE__Screen__c"
+    },
+    "recordtypeidmap": {
+      "0124T000000AnFnQAK": "Question Group",
+      "0124T000000AnFoQAK": "UI Group"
+    },
+    "userlookupfields": [
+      "ownerid"
+    ]
+  },
+  {
+    "name": "nFORCE__Route__c",
+    "recordtypeidmap": {},
+    "userlookupfields": [
+      "ownerid"
+    ]
+  },
+  {
+    "name": "nFORCE__Route_Group__c",
+    "lookupobjfieldmap": {
+      "nFORCE__Group__c": "nFORCE__Group__c,nFORCE__Group__c",
+      "nFORCE__Route__c": "nFORCE__Parent_Route__c,nFORCE__Route__c"
+    },
+    "recordtypeidmap": {},
+    "userlookupfields": [
+      "ownerid"
+    ]
+  }
+]

@@ -11,3 +11,9 @@ packageDirectories:
               modifiedDate: '2020-02-14 07:00:53'
             Version-2.0:
               modifiedDate: '2020-02-14 07:24:16'
+        01p6F00000QkOpC-Feature2:
+          path: /01p6F00000QkOpC-Feature2
+          prefix: SAMDEV
+          versions:
+            '3.0':
+              modifiedDate: '2020-02-14 09:38:33'

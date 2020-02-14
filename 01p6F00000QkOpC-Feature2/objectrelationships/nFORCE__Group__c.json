@@ -1,0 +1,15 @@
+[
+  {
+    "name": "nFORCE__Group__c",
+    "lookupobjfieldmap": {
+      "nFORCE__Screen__c": "nFORCE__Screen__c,nFORCE__Screen__c"
+    },
+    "recordtypeidmap": {
+      "0124T000000AnFnQAK": "Question Group",
+      "0124T000000AnFoQAK": "UI Group"
+    },
+    "userlookupfields": [
+      "ownerid"
+    ]
+  }
+]
