@@ -6,6 +6,7 @@ packageDirectories:
         01p6F00000QkOpC-Credit Memo:
           path: /01p6F00000QkOpC-Credit Memo
           prefix: SAMDEV
+          standardFeature: false
           versions:
             Version-1.0:
               modifiedDate: '2020-02-14 07:00:53'
@@ -14,6 +15,14 @@ packageDirectories:
         01p6F00000QkOpC-Feature2:
           path: /01p6F00000QkOpC-Feature2
           prefix: SAMDEV
+          standardFeature: false
           versions:
             '3.0':
               modifiedDate: '2020-02-14 09:38:33'
+        0100bUe1100110eOsV-11:
+          path: /0100bUe1100110eOsV-11
+          prefix: ncino-
+          standardFeature: true
+          versions:
+            '12':
+              modifiedDate: '2020-02-17 11:04:35'

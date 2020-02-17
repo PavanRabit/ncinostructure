@@ -1,0 +1,80 @@
+{
+  "name": "1_nFORCE__Tile__c",
+  "attributes": [
+    "Id",
+    "OwnerId",
+    "IsDeleted",
+    "Name",
+    "CreatedDate",
+    "CreatedById",
+    "LastModifiedDate",
+    "LastModifiedById",
+    "SystemModstamp",
+    "nFORCE__Body__c",
+    "nFORCE__Header__c",
+    "nFORCE__Icon_Path__c",
+    "nFORCE__lookupKey__c"
+  ],
+  "records": {
+    "1": {
+      "LastModifiedDate": "2019-09-09T15:17:11.000Z",
+      "IsDeleted": "",
+      "Name": "Need Help",
+      "SystemModstamp": "",
+      "OwnerId": "0054T000000ZYm5QAG",
+      "CreatedById": "0054T000000ZYm5QAG",
+      "nFORCE__Icon_Path__c": "action-sprite/svg/symbols.svg#add_contact",
+      "CreatedDate": "2019-09-09T15:17:11.000Z",
+      "nFORCE__Body__c": "\u003cdiv style\u003d/\"text-align: center;/\"\u003eYour Personal Banker is here to help.  Contact us now!\u003cbr\u003e\u003cbr\u003e\u003cimg alt\u003d/\"User-added image/\" src\u003d/\"https://bankr-3869--c.documentforce.com/servlet/rtaImage?eid\u003da184T000000PN7y\u0026amp;feoid\u003d00N4T000002L1Oz\u0026amp;refid\u003d0EM4T0000000TcI/\"\u003e\u003c/img\u003e\u003cbr\u003e\u003cb\u003eMelanie Bowen, Vice President\u003c/b\u003e\u003cbr\u003e\u003cbr\u003e(910) 555-5555\u003c/div\u003e",
+      "nFORCE__lookupKey__c": "a5q4T000000XaQoQAK",
+      "Id": "a184T000000PN7yQAG",
+      "LastModifiedById": "0054T000000ZYm5QAG",
+      "nFORCE__Header__c": "Need Help?"
+    },
+    "2": {
+      "LastModifiedDate": "2019-09-09T15:17:11.000Z",
+      "IsDeleted": "",
+      "Name": "FAQs-Personal",
+      "SystemModstamp": "",
+      "OwnerId": "0054T000000ZYm5QAG",
+      "CreatedById": "0054T000000ZYm5QAG",
+      "nFORCE__Icon_Path__c": "action-sprite/svg/symbols.svg#question_post_action",
+      "CreatedDate": "2019-09-09T15:17:11.000Z",
+      "nFORCE__Body__c": "\u003cdiv style\u003d/\"text-align: center;/\"\u003e\u003ca href\u003d/\"http://www.ncino.com/\" target\u003d/\"_blank/\"\u003eC\u003c/a\u003e\u003ca href\u003d/\"http://www.ncino.com/\" target\u003d/\"_blank/\"\u003ean I apply for this loan if I am not the business owner?\u003c/a\u003e\u003c/div\u003e  \u003cdiv style\u003d/\"text-align: center;/\"\u003e\u003ca href\u003d/\"http://www.ncino.com/\" target\u003d/\"_blank/\"\u003eWhy do you need to review my credit history?\u003c/a\u003e\u003c/div\u003e  \u003cdiv style\u003d/\"text-align: center;/\"\u003e\u003ca href\u003d/\"http://www.ncino.com/\" target\u003d/\"_blank/\"\u003eHow do I save and come back later?\u003c/a\u003e\u003c/div\u003e",
+      "nFORCE__lookupKey__c": "a5q4T000000XaQnQAK",
+      "Id": "a184T000000PN80QAG",
+      "LastModifiedById": "0054T000000ZYm5QAG",
+      "nFORCE__Header__c": "FAQs"
+    },
+    "3": {
+      "LastModifiedDate": "2019-09-09T15:17:11.000Z",
+      "IsDeleted": "",
+      "Name": "FAQs-Business",
+      "SystemModstamp": "",
+      "OwnerId": "0054T000000ZYm5QAG",
+      "CreatedById": "0054T000000ZYm5QAG",
+      "nFORCE__Icon_Path__c": "action-sprite/svg/symbols.svg#question_post_action",
+      "CreatedDate": "2019-09-09T15:17:11.000Z",
+      "nFORCE__Body__c": "\u003cdiv style\u003d/\"text-align: center;/\"\u003e\u003ca href\u003d/\"http://www.ncino.com/\" target\u003d/\"_blank/\"\u003eWhere can I find my TIN?\u003c/a\u003e\u003c/div\u003e  \u003cdiv style\u003d/\"text-align: center;/\"\u003e\u003ca href\u003d/\"http://www.ncino.com/\" target\u003d/\"_blank/\"\u003eWh\u003c/a\u003e\u003ca href\u003d/\"http://www.ncino.com/\" target\u003d/\"_blank/\"\u003eat does legal entity type mean?\u003c/a\u003e\u003c/div\u003e  \u003cdiv style\u003d/\"text-align: center;/\"\u003e\u003ca href\u003d/\"http://www.ncino.com/\" target\u003d/\"_blank/\"\u003eHow do I save and come back later?\u003c/a\u003e\u003c/div\u003e",
+      "nFORCE__lookupKey__c": "a5q4T000000XaQqQAK",
+      "Id": "a184T000000PN81QAG",
+      "LastModifiedById": "0054T000000ZYm5QAG",
+      "nFORCE__Header__c": "FAQs"
+    },
+    "4": {
+      "LastModifiedDate": "2019-09-09T15:17:11.000Z",
+      "IsDeleted": "",
+      "Name": "FAQs-Review \u0026 Submit",
+      "SystemModstamp": "",
+      "OwnerId": "0054T000000ZYm5QAG",
+      "CreatedById": "0054T000000ZYm5QAG",
+      "nFORCE__Icon_Path__c": "action-sprite/svg/symbols.svg#question_post_action",
+      "CreatedDate": "2019-09-09T15:17:11.000Z",
+      "nFORCE__Body__c": "\u003cul\u003e\u003cli\u003e\u003ca href\u003d/\"http://www.ncino.com/\" target\u003d/\"_blank/\"\u003eW\u003c/a\u003e\u003ca href\u003d/\"http://www.ncino.com/\" target\u003d/\"_blank/\"\u003ehat happens after I submit my application?\u003c/a\u003e\u003c/li\u003e\u003cli\u003e\u003ca href\u003d/\"http://www.ncino.com/\" target\u003d/\"_blank/\"\u003eCan I submit my application later?\u003c/a\u003e\u003c/li\u003e\u003cli\u003e\u003ca href\u003d/\"http://www.ncino.com/\" target\u003d/\"_blank/\"\u003eCan I update this information later?\u003c/a\u003e\u003c/li\u003e\u003c/ul\u003e",
+      "nFORCE__lookupKey__c": "a5q4T000000XaQrQAK",
+      "Id": "a184T000000PN82QAG",
+      "LastModifiedById": "0054T000000ZYm5QAG",
+      "nFORCE__Header__c": "FAQs"
+    }
+  }
+}

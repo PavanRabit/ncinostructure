@@ -1,10 +1,8 @@
 {
-	"name": "rabitCino",
-	"defaultPath": "dataset",
-	"featurePrefixes": {
-		"01p6F00000QkOpC": "3krkFKpsGOrsCzy8o4xGf9NO5R6s7wzu"
-	},
-	"uniqueIds": {
-		"3krkFKpsGOrsCzy8o4xGf9NO5R6s7wzu": "autorabit.com-6s7wzu"
-	}
+  "name": "rabitCino",
+  "defaultPath": "dataset",
+  "featurePrefixes": {
+    "01p6F00000QkOpC": "3krkFKpsGOrsCzy8o4xGf9NO5R6s7wzu",
+    "0100bUe1100110eOsV": "3krkFKpsGOrsCzy8o4xGf9NO5R6s7wzx"
+  }
 }
