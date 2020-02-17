@@ -26,3 +26,10 @@ packageDirectories:
           versions:
             '12':
               modifiedDate: '2020-02-17 11:04:35'
+        01p6F00000QkOpC-MyFeature543-:
+          path: /01p6F00000QkOpC-MyFeature543-
+          prefix: SAMDEV
+          standardFeature: false
+          versions:
+            '1':
+              modifiedDate: '2020-02-17 13:28:44'
