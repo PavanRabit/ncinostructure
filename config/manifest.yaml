@@ -6,6 +6,16 @@ packageDirectories:
         0111aUq1111010aV7A-CM:
           path: dataset/0111aUq1111010aV7A-CM
           prefix: AR_PREVIEW
+          standardFeature: false
           versions:
             '1':
               modifiedDate: '2020-02-14 11:09:52'
+    ? ''
+    : features:
+        01p6F00000QkOpC-CommitNDDeployFromOrg4:
+          path: 01p6F00000QkOpC-CommitNDDeployFromOrg4
+          prefix: SAMDEV
+          standardFeature: false
+          versions:
+            '1':
+              modifiedDate: '2020-02-18 15:44:20'
