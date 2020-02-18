@@ -6,8 +6,16 @@ packageDirectories:
         0100aNz1100110hOgI-Credit Memo:
           path: dataset/0100aNz1100110hOgI-Credit Memo
           prefix: SAMDEV
+          standardFeature: false
           versions:
             Version-1.0:
               modifiedDate: '2020-02-03 13:51:02'
             Version-2.0:
               modifiedDate: '2020-02-03 13:55:59'
+        0100aNz1100110hOgI-Jan24-Test4:
+          path: dataset/0100aNz1100110hOgI-Jan24-Test4
+          prefix: ncino-
+          standardFeature: true
+          versions:
+            '24.2':
+              modifiedDate: '2020-02-18 06:37:21'

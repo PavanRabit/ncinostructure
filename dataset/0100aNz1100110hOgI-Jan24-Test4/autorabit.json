@@ -1,0 +1,12 @@
+{
+  "prefix": "ncino-",
+  "packageDirectories": {
+    "24.2": {
+      "metadata": {
+        "exclude": {
+          "CustomObject": []
+        }
+      }
+    }
+  }
+}
