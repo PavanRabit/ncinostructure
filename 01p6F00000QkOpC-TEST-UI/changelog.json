@@ -1,0 +1,9 @@
+{
+	"orgName": "autorabit.com-8HQe7K",
+	"key": "ncino-test-ui_1",
+	"featureName": "nCino-TEST-UI",
+	"version": "1",
+	"changeLog": "Select Id From nFORCE__Group__c Where ( Name = 'TestMigration' )",
+	"createdBy": "harinath.s@autorabit.com",
+	"createdDate": "2020-02-13 12:07:06"
+}

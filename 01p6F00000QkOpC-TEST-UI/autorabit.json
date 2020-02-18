@@ -1,0 +1,12 @@
+{
+  "prefix": "nCino",
+  "packageDirectories": {
+    "1": {
+      "metadata": {
+        "exclude": {
+          "CustomObject": []
+        }
+      }
+    }
+  }
+}

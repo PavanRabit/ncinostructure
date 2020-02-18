@@ -33,3 +33,10 @@ packageDirectories:
           versions:
             '1':
               modifiedDate: '2020-02-17 13:28:44'
+        01p6F00000QkOpC-TEST-UI:
+          path: 01p6F00000QkOpC-TEST-UI
+          prefix: nCino
+          standardFeature: true
+          versions:
+            '1':
+              modifiedDate: '2020-02-18 06:27:19'
