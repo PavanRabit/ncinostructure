@@ -40,3 +40,10 @@ packageDirectories:
           versions:
             '1':
               modifiedDate: '2020-02-18 06:27:19'
+        01p6F00000QkOpC-Jan24-Test4:
+          path: 01p6F00000QkOpC-Jan24-Test4
+          prefix: ncino-
+          standardFeature: true
+          versions:
+            '24.2':
+              modifiedDate: '2020-02-18 06:33:19'
