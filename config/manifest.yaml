@@ -47,3 +47,10 @@ packageDirectories:
           versions:
             '24.2':
               modifiedDate: '2020-02-18 06:33:19'
+        01p6F00000QkOpC-CreditMemoCompare:
+          path: 01p6F00000QkOpC-CreditMemoCompare
+          prefix: SAMDEV
+          standardFeature: false
+          versions:
+            '1':
+              modifiedDate: '2020-03-16 14:13:30'
