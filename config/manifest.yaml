@@ -19,3 +19,10 @@ packageDirectories:
           versions:
             '1':
               modifiedDate: '2020-02-14 11:08:36'
+        0100sBg1100110vRvD-CreditMemoCompare:
+          path: dataset/0100sBg1100110vRvD-CreditMemoCompare
+          prefix: SAMDEV
+          standardFeature: false
+          versions:
+            '1':
+              modifiedDate: '2020-03-16 13:59:33'
