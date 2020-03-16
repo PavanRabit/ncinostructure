@@ -1,0 +1,4 @@
+{
+  "name": "LLC_BI__Credit_Memo__c",
+  "query": "Select Id from LLC_BI__Credit_Memo__c where Name \u003d \u0027Small Business Credit Memo\u0027"
+}
