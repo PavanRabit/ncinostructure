@@ -18,6 +18,7 @@
         <members>LLC_BI__Credit_Memo__c.LLC_BI__Object_API_Name__c</members>
         <members>LLC_BI__Credit_Memo__c.LLC_BI__Screen__c</members>
         <members>LLC_BI__Credit_Memo__c.LLC_BI__lookupKey__c</members>
+        <members>LLC_BI__Credit_Memo__c.TestField__c</members>
         <members>nFORCE__Layout__c.AutorabitExtId__c</members>
         <members>nFORCE__Layout__c.nFORCE__Category__c</members>
         <members>nFORCE__Layout__c.nFORCE__Generator_Class__c</members>
