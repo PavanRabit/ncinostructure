@@ -1,0 +1,12 @@
+!!com.rabit.featuremigration.beans.vcstructure.ConfigManifest
+packageDirectories:
+  packagePaths:
+    dataset:
+      features:
+        0100bYn1100110uE3H-CreditMemoCompare:
+          path: dataset/0100bYn1100110uE3H-CreditMemoCompare
+          prefix: SAM_DEVBOX
+          standardFeature: false
+          versions:
+            '1':
+              modifiedDate: '2020-03-17 13:37:33'

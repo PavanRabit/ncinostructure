@@ -1,0 +1,12 @@
+{
+  "prefix": "SAM_DEVBOX",
+  "packageDirectories": {
+    "1": {
+      "metadata": {
+        "exclude": {
+          "CustomObject": []
+        }
+      }
+    }
+  }
+}
