@@ -1,0 +1,12 @@
+!!com.rabit.featuremigration.beans.vcstructure.ConfigManifest
+packageDirectories:
+  packagePaths:
+    dataset:
+      features:
+        0100cBt1100110bWm2-FilteredHierarchy:
+          path: dataset/0100cBt1100110bWm2-FilteredHierarchy
+          prefix: ncino
+          standardFeature: true
+          versions:
+            '1':
+              modifiedDate: '2020-03-23 04:44:54'

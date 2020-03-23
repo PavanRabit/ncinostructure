@@ -1,0 +1,4 @@
+{
+  "name": "LLC_BI__Product__c",
+  "query": "Select Id From LLC_BI__Product__c Where ( Name \u003d \u0027Land Development\u0027 )"
+}

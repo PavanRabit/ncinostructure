@@ -1,0 +1,43 @@
+{
+  "name": "1_LLC_BI__Product_Line__c",
+  "attributes": [
+    "Id",
+    "OwnerId",
+    "IsDeleted",
+    "Name",
+    "CreatedDate",
+    "CreatedById",
+    "LastModifiedDate",
+    "LastModifiedById",
+    "SystemModstamp",
+    "LastViewedDate",
+    "LastReferencedDate",
+    "LLC_BI__Product_Object__c",
+    "LLC_BI__lookupKey__c",
+    "LLC_BI__Non_Global_Product_Type_Count__c",
+    "LLC_BI__Category__c",
+    "LLC_BI__Interest_Accrual_Method__c",
+    "CSiDP__lookupKey__c"
+  ],
+  "records": {
+    "1": {
+      "CSiDP__lookupKey__c": "",
+      "CreatedById": "0056g000004migcAAA",
+      "CreatedDate": "2020-03-06T13:52:32.000Z",
+      "Id": "a0Z6g0000027pbXEAQ",
+      "IsDeleted": "",
+      "LLC_BI__Category__c": "Business",
+      "LLC_BI__Interest_Accrual_Method__c": "310",
+      "LLC_BI__Non_Global_Product_Type_Count__c": "",
+      "LLC_BI__Product_Object__c": "Loan__c",
+      "LLC_BI__lookupKey__c": "PL-COMM",
+      "LastModifiedById": "0056g000004migcAAA",
+      "LastModifiedDate": "2020-03-06T13:52:32.000Z",
+      "LastReferencedDate": "",
+      "LastViewedDate": "",
+      "Name": "Commercial",
+      "OwnerId": "0056g000004migcAAA",
+      "SystemModstamp": ""
+    }
+  }
+}
